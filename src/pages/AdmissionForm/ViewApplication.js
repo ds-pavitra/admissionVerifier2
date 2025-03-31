@@ -728,7 +728,7 @@ const ViewApplication = ({ application, fetchlist, toggle, verificationStatus, v
                 <select value={status} onChange={(e) => setStatus(e.target.value)} style={{ marginLeft: "10px" }}>
                     <option value="approved">Approved</option>
                     <option value="rejected">Rejected</option>
-                    <option value="reverification">Reverificaion</option>
+                    <option value="reverification">Reverification</option>
                 </select>
             </div>
 

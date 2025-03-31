@@ -140,15 +140,14 @@ class SidebarContent extends Component {
                 <span className="ms-1">{this.props.t('Applications')}</span>
               </Link>
             </li>
-            {/* <li>
+            <li>
               <Link to="/reverification" className="waves-effect"
                 onClick={(e) => this.handleMenuClick(e, "/reverification")}
               >
                 <i className="ri-user-2-line"></i>
                 <span className="ms-1">{this.props.t('Reverificaion')}</span>
               </Link>
-            </li> */}
-
+            </li> 
             {/* <li>
               <Link to="/#" className="has-arrow waves-effect">
                 <i className="ri-store-2-line"></i>

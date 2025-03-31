@@ -8,7 +8,7 @@ import Breadcrumbs from '../../components/Common/Breadcrumb';
 
 const Dashboard = () => {
     const [breadcrumbItems] = useState([
-        { title: "Verifier 3", link: "/" },
+        { title: "Verifier 2", link: "/" },
         { title: "Dashboard", link: "#" }
     ]);
     const [loading, setLoading] = useState(false);

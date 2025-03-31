@@ -20,7 +20,7 @@ const ApplicationList = () => {
     const applicantsApiUrl = `${apiBaseUrl}/verification/list`;
 
     const breadcrumbItems = [
-        { title: "Verifier 3", link: "#" },
+        { title: "Verifier 2", link: "#" },
         { title: "Applications", link: "#" },
     ];
 
